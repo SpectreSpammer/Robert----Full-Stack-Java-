@@ -4,12 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="128a556f-0b6a-4fe1-8da4-4a3ffb2aa868" name="Changes" comment="" />
+    <list default="true" id="128a556f-0b6a-4fe1-8da4-4a3ffb2aa868" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListArray/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListArray/EmployeeServiceArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListArray/MainArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListLinked/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListLinked/EmployeeServiceLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/ListLinked/MainLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day10_collections_framework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day9_exceptions/exceptionTypes/customizeException/EmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day9_exceptions/exceptionTypes/customizeException/InvalidRaiseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day9_exceptions/exceptionTypes/customizeException/MainException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day6_arrays/declaringAndInitializing/MainDeclaringAndInitializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Robert---Full-Stack-Java-Course/src/main/java/day6_arrays/declaringAndInitializing/MainDeclaringAndInitializing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SpectreSpammer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SpectreSpammer/Robert----Full-Stack-Java-.git",
+    "accountId": "2a2956ee-8057-4e41-9767-3dad543164e6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -21,7 +57,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.MainArrayList.executor": "Run",
+    "Application.MainException.executor": "Run",
+    "Application.MainLinkedList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Mugiwara/OneDrive/One Piece of Java/Students/Robert/pom.xml",
     "project.structure.last.edited": "SDKs",
@@ -29,7 +70,15 @@
     "project.structure.side.proportion": "0.3091954"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day9_exceptions.exceptionTypes.customizeException" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day10_collections_framework.ListLinked" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainLinkedList">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day8_OOP.abstraction.Main" />
       <module name="Robert" />
@@ -43,8 +92,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_collections_framework.ListArray.MainArrayList" />
+      <module name="Robert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_collections_framework.ListArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9_exceptions.exceptionTypes.customizeException.MainException" />
+      <module name="Robert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day9_exceptions.exceptionTypes.customizeException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_collections_framework.ListLinked.MainLinkedList" />
+      <module name="Robert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_collections_framework.ListLinked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainLinkedList" />
+        <item itemvalue="Application.MainArrayList" />
+        <item itemvalue="Application.MainException" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
